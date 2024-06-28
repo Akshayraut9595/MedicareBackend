@@ -1,0 +1,26 @@
+# Node.js dependencies
+/node_modules
+
+# Runtime data
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Built files
+/dist
+/build
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+
+# Optional: Node.js generated files
+node_modules/
+npm-debug.log
+yarn-error.log
