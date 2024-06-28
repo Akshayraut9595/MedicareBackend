@@ -14,7 +14,7 @@ dotenv.config();
 const app = express();
 const port = process.env.PORT || 8000;
 const corsOption = {
-  origin:process.env.CORS_ORIGIN,
+  origin:"https://medicare-gules.vercel.app",
   credentials: true,
 };
 
